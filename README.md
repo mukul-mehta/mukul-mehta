@@ -1,3 +1,5 @@
+ <img src="bonjour.png" alt="Bonjour" width="339" height="257"> 
+
 I'm Mukul, a third year CS undergraduate at IIT Kharagpur
 
 - 🔭 I’m currently working on Natural Language Inference problems and building [LTTKGP](https://github.com/lttkgp)
