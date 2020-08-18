@@ -1,4 +1,4 @@
- <img src="bonjour.png" alt="Bonjour" width="339" height="257"> 
+ <img src="https://github.com/mukul-mehta/mukul-mehta/blob/master/bonjour.png" alt="Bonjour" width="339" height="257"> 
 
 I'm Mukul, a third year CS undergraduate at IIT Kharagpur
 
