@@ -3,7 +3,7 @@
 I'm Mukul, a third year CS undergraduate at IIT Kharagpur
 
 - 🔭 I’m currently building [LTTKGP](https://github.com/lttkgp)
-- 🌱 I’m currently exploring systems in my Operating Systems and otherwise. Sometimes, I enjoy writing kernel modules and experiment with kernel settings
+- 🌱 I’m currently exploring systems in my Operating Systems course and otherwise. Sometimes, I enjoy writing kernel modules and experiment with kernel settings
 - 📫 How to reach me: Email - hello@metamehta.me
 - 😄 Pronouns: He/Him
 
