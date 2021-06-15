@@ -1,8 +1,8 @@
  <img src="https://github.com/mukul-mehta/mukul-mehta/blob/master/bonjour.png" alt="Bonjour" width="339" height="257"> 
 
-I'm Mukul, a third year CS undergraduate at IIT Kharagpur
+I'm Mukul, a final year CS undergraduate at IIT Kharagpur
 
-- 🔭 I’m currently building [LTTKGP](https://github.com/lttkgp)
+- 🔭 I’m currently interning at Oracle, and building [LTTKGP](https://github.com/lttkgp) on the side
 - 🌱 I’m currently exploring systems in my Operating Systems course and otherwise. Sometimes, I enjoy writing kernel modules and experiment with kernel settings
 - 📫 How to reach me: Email - hello@metamehta.in
 - 😄 Pronouns: He/Him
