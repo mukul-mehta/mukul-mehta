@@ -1,9 +1,10 @@
  <img src="https://github.com/mukul-mehta/mukul-mehta/blob/master/bonjour.png" alt="Bonjour" width="339" height="257"> 
 
-I'm Mukul, a final year CS undergraduate at IIT Kharagpur
+I'm Mukul, a founding product Engineer at [Workduck](https://workduck.io/). I graduated from IIT Kharagpur with a CS degree in '22
 
-- 🔭 I’m currently interning at Oracle, and building [LTTKGP](https://github.com/lttkgp) on the side
-- 🌱 I’m currently exploring systems in my Operating Systems course and otherwise. Sometimes, I enjoy writing kernel modules and experiment with kernel settings
+- 🦆 I've been at Workduck since October '21, and work on backend and DevOps, while occassionally dabbling into frontend. We primarly use TS + React and are fans of the serverless ecosystem!
+- 🔭 I previously interned at Oracle Cloud Infrastructure, part of the file storage SRE team trying to increase observability into the disk provisioning and failure process
+- 🎧 I worked with some fantastic people to build [LTTKGP](https://github.com/lttkgp) but sadly haven't had the time to maintain it and would be glad if you're willing to help manage it. Please reach out and we could get started!
 - 📫 How to reach me: Email - hello@mukul-mehta.in
 - 😄 Pronouns: He/Him
 
